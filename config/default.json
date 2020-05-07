@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://danegood1:Inception1984!@cluster-name-zqaba.mongodb.net/item?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://@cluster-name-zqaba.mongodb.net/item?retryWrites=true&w=majority",
   "jwtSecret": "tl_myJwtSecret"
 }
